@@ -39,7 +39,7 @@ Developers can also bounce off their ideas and brainstorm further at the Web 3.0
 
 ## Challenge Categories and Guidance
 
-We encourage new projects and tools in Web 3.0 related spaces, including DeFi, gaming, web 3.0 tools & protocols, NFT and DAO. The products submmitted shall follow below guidance:
+We encourage new projects and tools in Web 3.0 related spaces, including DeFi, gaming, web 3.0 tools & protocols, NFT and DAO. The products submitted shall follow below guidance:
 - Originality: Participants are strongly to encouraged to be original in their product designs. Plagiarism/breach of intellectual property is strictly prohibited.
 - Revelance: Entries must be in line with the theme of the event; works that are unrelated to Web 3.0 will be eliminated.
 - Completion: Deadline for product submissions is 12pm, 24th March 2022 (GMT+8). All submitted work should include product descriptions, links to the open source code, team introductions, presentation materials and any other relevant documents.
