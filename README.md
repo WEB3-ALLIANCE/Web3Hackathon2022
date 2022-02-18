@@ -37,29 +37,41 @@ Don’t let the future go by without you having your say on it.
 Developers can also bounce off their ideas and brainstorm further at the Web 3.0 Hackathon Discord portal.
 
 
+## Challenge Categories and Guidance
+
+We encourage new projects and tools in Web 3.0 related spaces, including DeFi, gaming, web 3.0 tools & protocols, NFT and DAO. The products submmitted shall follow below guidance:
+- Originality: Participants are strongly to encouraged to be original in their product designs. Plagiarism/breach of intellectual property is strictly prohibited.
+- Revelance: Entries must be in line with the theme of the event; works that are unrelated to Web 3.0 will be eliminated.
+- Completion: Deadline for product submissions is 12pm, 24th March 2022 (GMT+8). All submitted work should include product descriptions, links to the open source code, team introductions, presentation materials and any other relevant documents.
+
+Builders will have opportunities to attend talks, workshops and to meet and interact with mentors and top judges in the industry, with a view to potentially gaining funding from leading venture capitals and industry veterans.
+
+There are no limitations on which blockchain to deploy for projects. The aim of Web 3.0 Hackathon is to unleash builders’ innovation. Do contact us if you have questions or need mentoring when building.
+
+
 ## About Web 3.0 Hackathon
 
 Web 3.0 SEA Alliance is a joint initiative of Web3 Scholarship, ABGA, FBG Capital, Sanctor Capital and Spark Digital Capital. The event aims to gather independent developers who are enthusiastic about Web 3.0, the decentralized, private, censorship-resistant internet that is coming our way. Web 3.0 Hackathon will be a platform to connect, communicate, inspire, and collaborate with each other, and to nurture cutting edge dApps, tools, protocols, and infrastructure for Web 3.0.
 
 ### Joint Organizers:
 
-### Web3 Scholarship
+### [Web3 Scholarship](https://twitter.com/huobi_incubator)
 Web3 Scholarship is a funding platform jointly initiated by Huobi Incubator and a group of blockchain veterans, venture capitals, universities, and crypto platforms. It will be committed to funding builders in the Web 3.0 field and providing support in many aspects, i.e,. funds, incubator mentorship and token listing opportunities for early-stage projects.
 
-### ABGA
+### [ABGA](https://twitter.com/ABGAasia)
 ABGA is a non-profit, blockchain alliance, co-sponsored by leading institutions in the gaming industry. These institutions are optimistic about blockchain games, NFTs and Metaverse, and are taking the initiative to support ABGA related activities and investments.
 
-### FBG Capital
+### [FBG Capital](https://twitter.com/FBGCapital)
 FBG Capital, founded in 2016, is Asia's leading digital asset management and investment firm.
 
-### Sanctor Capital
+### [Sanctor Capital](https://twitter.com/SanctorCapital)
 Sanctor Capital is a sanctuary where bright minds can find the support they need to maximize their impact on the industry. With a number of in-house initiatives like Sanctor Labs and Sanctor Turbo, founders can find the guidance they need across a number of different areas like product strategy, tokenomics, communication and partnerships.
 
-### Spark Digital Capital
+### [Spark Digital Capital](https://twitter.com/capital_spark)
 Established in 2017, Spark Digital Capital is a New York based family office crypto fund with a remarkable tracking record in the industry.
 
 
-### Prizes:
+## Prizes:
 
 - Total Award Pool Size: US$92,000
 - Top Winner: US$25,000 (1 slot)
@@ -75,13 +87,22 @@ Established in 2017, Spark Digital Capital is a New York based family office cry
 - Community Award: US$300 (1 slot)
 - Other Demo Teams: US$150 each team
 
-### Programme:
 
-Registration: Now till 15th March
-Challenge announcement: 16th March
-Online team-up: March 16th - 20th
-Hacking: March 21st - 24th
-Demo Day: March 25th @Singapore + live connecting
+## Programme:
+
+- Registration: Now till 15th March
+- Challenge announcement: 16th February
+- Online Hacking:16th February 16 - March 24
+- Demo Day: March 25th @Singapore + live connecting
+
+
+
+## NFT Space
+
+We have also prepared NFT gifts for builders and participants!
+- [Web 3.0 Hackathon 2022 Registration NFT](https://galaxy.eco/web3/campaign/GCzZNUUqfv)
+- Web3Builder (coming soon, and more)
+
 
 
 ## Links
