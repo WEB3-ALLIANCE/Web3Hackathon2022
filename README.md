@@ -104,6 +104,13 @@ We have also prepared NFT gifts for builders and participants!
 - Web3Builder (coming soon, and more)
 
 
+## How to submit product
+Follow the [template](https://github.com/WEB3-ALLIANCE/Web3Hackathon2022/issues/1) to submit your product in [Issues](https://github.com/WEB3-ALLIANCE/Web3Hackathon2022/issues).
+1. Please add a New Issue in this repo for your product and leave it open.
+2. Fill in the information as above template. You can edit it anytime before the deadline.
+3. The deadline to submit product information is 12pm, 24th March 2022 (GMT+8)
+4. Please use English for all information and materials.
+
 
 ## Links
 - Event registration link:  https://web3hackathon.typeform.com/to/XYro0spC
