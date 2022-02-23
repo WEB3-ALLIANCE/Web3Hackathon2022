@@ -101,7 +101,8 @@ Established in 2017, Spark Digital Capital is a New York based family office cry
 
 We have also prepared NFT gifts for builders and participants!
 - [Web 3.0 Hackathon 2022 Registration NFT](https://galaxy.eco/web3/campaign/GCzZNUUqfv)
-- Web3Builder (coming soon, and more)
+- [Web3Builder](https://galaxy.eco/web3/campaign/GCfeSUUWam)
+- MileStone Builder (coming soon)
 
 
 ## How to submit product
