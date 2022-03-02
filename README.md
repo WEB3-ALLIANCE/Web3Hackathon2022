@@ -4,7 +4,7 @@
 Web 3.0 SEA Alliance announce Web 3.0 Hackathon to jumpstart innovation and ideation for the coming internet revolution
 
 
-- US$92,000 in prizes in total; top prize of US$25,000
+- US$99,000 in prizes in total; top prize of US$25,000
 - Opportunity to influence the course of Internet history
 
 The Web 3.0 SEA Alliance, an initiative by Web3 Scholarship, ABGA, FBG Capital, Sanctor Capital and Spark Digital Capital, is calling all indie developers and teams to throw their hat in to the Web 3.0 Hackathon challenge.
@@ -86,6 +86,12 @@ Established in 2017, Spark Digital Capital is a New York based family office cry
 - Third Tier Winners: US$600 (3 slots)
 - Community Award: US$300 (1 slot)
 - Other Demo Teams: US$150 each team
+
+## Ecological Bounty
+The Ecological Bounty is given to a project that best applies below technology stacks during development. The winner of each track is selected by judges from the following sponsors.
+
+- US$7,000 for the best product deployed on [Dfinity](https://dfinity.org/), sponsored by ICPort, [DMail](https://dmail.ai/) and [ICNaming](https://app-testnet.icnaming.com/).
+
 
 
 ## Programme:
