@@ -90,7 +90,7 @@ Established in 2017, Spark Digital Capital is a New York based family office cry
 ## Ecological Bounty
 The Ecological Bounty is given to a project that best applies below technology stacks during development. The winner of each track is selected by judges from the following sponsors.
 
-- US$7,000 for the best product deployed on [Dfinity](https://dfinity.org/), sponsored by ICPort, [DMail](https://dmail.ai/) and [ICNaming](https://app-testnet.icnaming.com/).
+- US$7,000 for the best product deployed on [Dfinity](https://dfinity.org/), sponsored by [ICPort](https://www.icport.finance), [DMail](https://dmail.ai/) and [ICNaming](https://app-testnet.icnaming.com/).
 
 
 
