@@ -99,7 +99,7 @@ The Ecological Bounty is given to a project that best applies below technology s
 - Registration: Now till 15th March
 - Challenge announcement: 16th February
 - Online Hacking:16th February 16 - March 24
-- Demo Day: March 25th @Singapore + live connecting
+- Demo Day: March 25th 2-6pm (GMT+8) Virtual meeting
 
 
 
