@@ -101,7 +101,33 @@ The Ecological Bounty is given to a project that best applies below technology s
 - Online Hacking:16th February 16 - March 24
 - Demo Day: March 25th 2-6pm (GMT+8) Virtual meeting
 
+## Judging Criteria
+### [Judges](https://web3-hackathon.com/judges/)
 
+### **Implementation**
+- How complete is the project, in terms of the front-end, backend, smart contract and design?
+- Is the proposed solution functional?
+- Is the solution deployed on blockchain (either mainnet or testnent)?
+
+### **Creativity**
+
+We value innovativeness and creativity – you will get additional points if your product is different from others already in the market, presents a new solution to an existing problem, or a new idea in iterating web2 to web3.
+
+### **Complexity**
+
+The technical difficulties and complexity of the project, as well as the solution
+
+### **Applicability**
+
+Product flexibility and scale of adoption in web3
+
+### **Open Source**
+
+We advocate the spirit of open source, so the github PR of your work is an important judging element.
+
+### **Hacking Spirit**
+
+Although this is an online hackathon, we still advocate the hacking spirit – projects created during the hackathon period will be awarded an added point.
 
 ## NFT Space
 
