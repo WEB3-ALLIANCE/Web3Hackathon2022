@@ -129,12 +129,20 @@ We advocate the spirit of open source, so the github PR of your work is an impor
 
 Although this is an online hackathon, we still advocate the hacking spirit – projects created during the hackathon period will be awarded an added point.
 
+
+## Resources
+### [Docs and Video](https://github.com/WEB3-ALLIANCE/Web3Hackathon2022/wiki/Resources)
+
+### [The Graph Workshop | 9th March, 5pm GMT+8](https://vimeo.com/event/1919136)
+
+
+
 ## NFT Space
 
 We have also prepared NFT gifts for builders and participants!
 - [Web 3.0 Hackathon 2022 Registration NFT](https://galaxy.eco/web3/campaign/GCzZNUUqfv)
 - [Web3Builder](https://galaxy.eco/web3/campaign/GCfeSUUWam)
-- MileStone Builder (coming soon)
+- [The Graph Workshop Audience](https://galaxy.eco/web3/campaign/GCgieUUG91)
 
 
 ## How to submit product
