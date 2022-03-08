@@ -153,6 +153,12 @@ Follow the [template](https://github.com/WEB3-ALLIANCE/Web3Hackathon2022/issues/
 4. Please use English for all information and materials.
 
 
+## Teammate Message Board
+- The [**message board**](https://www.notion.so/web3hackathon/9bc8db0e13f94f0184be4dafb6dcc537?v=6c115f6934fe4211a5aa02a374c37a17) is meant to serve for the builders looking for teammates to participate the Web 3.0 Hackathon.
+
+- Fill in the [**form**](https://web3hackathon.typeform.com/teammates) if you want to leave your message.
+
+
 ## Links
 - Event registration link:  https://web3hackathon.typeform.com/to/XYro0spC
 - Website: https://web3-hackathon.com/
