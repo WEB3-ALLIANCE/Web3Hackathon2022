@@ -133,7 +133,7 @@ Although this is an online hackathon, we still advocate the hacking spirit – p
 ## Resources
 ### [Docs and Video](https://github.com/WEB3-ALLIANCE/Web3Hackathon2022/wiki/Resources)
 
-### [The Graph Workshop | 9th March, 5pm GMT+8](https://vimeo.com/event/1919136)
+### [The Graph Workshop | 9th March, 5pm GMT+8](https://vimeo.com/686730232)
 
 
 
