@@ -77,7 +77,7 @@ Established in 2017, Spark Digital Capital is a New York based family office cry
 - Top Winner: US$25,000 (1 slot)
 - Second Tier Winners : US$15,000, (2 slots)
 - Third Tier Winners: US$8,000 (3 slots)
-- Community Award: US$3,000 (1 slot)
+- [Community Award](https://web3hackathon.notion.site/Community-Award-c4add933d3454c7aa7feb705c54dc73b): US$3,000 (1 slot)
 
 ### Alibaba Cloud Credits Coupon
 
