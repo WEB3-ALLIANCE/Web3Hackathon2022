@@ -139,10 +139,15 @@ Although this is an online hackathon, we still advocate the hacking spirit – p
 
 ## NFT Space
 
-We have also prepared NFT gifts for builders and participants!
+We have also prepared [NFT gifts](https://galaxy.eco/web3/) for builders and participants!
 - [Web 3.0 Hackathon 2022 Registration NFT](https://galaxy.eco/web3/campaign/GCzZNUUqfv)
 - [Web3Builder](https://galaxy.eco/web3/campaign/GCfeSUUWam)
 - [The Graph Workshop Audience](https://galaxy.eco/web3/campaign/GCgieUUG91)
+- [Milestone Builder](https://galaxy.eco/web3/campaign/GCCbRUU7yX)
+- [Community Award](https://galaxy.eco/web3/campaign/GC3nRUUSxN)
+- [3rd Prize Winner](https://galaxy.eco/web3/campaign/GC3oRUUS7m)
+- [2nd Prize Winner](https://galaxy.eco/web3/campaign/GCGQRUUeQA)
+- [1st Prize Winner](https://galaxy.eco/web3/campaign/GCGPRUUWAB)
 
 
 ## How to submit product
